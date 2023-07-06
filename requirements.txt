@@ -51,7 +51,7 @@ pandas == 1.0.3
 pytest == 5.4.1
 
 # metamech/metamech/images.py: 14,15
-scipy == 1.4.1
+scipy == 1.10.0
 
 # metamech/metamech/metropolis.py: 10
 tqdm == 4.42.1
